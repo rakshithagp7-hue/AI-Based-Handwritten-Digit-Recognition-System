@@ -1,6 +1,9 @@
-tensorflow
-gradio
+tensorflow==2.22.0rc0
+streamlit
+streamlit-drawable-canvas[image]>=0.10.0
 numpy
 pillow
 scipy
 matplotlib
+seaborn
+scikit-learn
